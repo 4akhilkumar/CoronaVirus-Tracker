@@ -1,5 +1,5 @@
 # Coronavirus Tracker
-> Coronavirus Tracker can be useful to know the basic statistics of the Coronavirus cases of different states in the country and variations of the current day and prevous day.
+> Coronavirus Tracker can be useful to know the basic statistics of the Coronavirus cases of different states in the country and variations of the current day and previous day.
 
 ## About Coronavirus
 > Coronavirus disease (COVID-19) is an infectious disease caused by the SARS-CoV-2 virus.
